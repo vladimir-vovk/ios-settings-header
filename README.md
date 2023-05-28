@@ -1,6 +1,6 @@
 <p align="center">Redo of the iOS Settings screen header animation with React Native Animated.</p>
 
-<h1 align="center">iOS Settings Header Animation</h1>
+<h1 align="center">iOS Settings Header Animation 🌟</h1>
 <br>
 
 <img src="./screen.gif" width="200"></img>
