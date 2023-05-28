@@ -3,7 +3,7 @@
 <h1 align="center">iOS Settings Header Animation 🌟</h1>
 <br>
 
-<img src="./screen.gif" width="200"></img>
+<img src="./screen.gif" width="300"></img>
 
 ## Quick start
 
